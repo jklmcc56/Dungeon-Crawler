@@ -1,0 +1,18 @@
+../Core/Src/lcd.cpp:5:13:void LCD_Select()	8	static
+../Core/Src/lcd.cpp:9:6:void LCD_Unselect()	8	static
+../Core/Src/lcd.cpp:13:13:void LCD_Reset()	8	static
+../Core/Src/lcd.cpp:19:13:void LCD_WriteCommand(uint8_t)	16	static
+../Core/Src/lcd.cpp:25:13:void LCD_WriteData(uint8_t*, size_t)	24	static
+../Core/Src/lcd.cpp:38:13:void LCD_SetAddressWindow(uint16_t, uint16_t, uint16_t, uint16_t)	32	static
+../Core/Src/lcd.cpp:57:6:void LCD_Init()	120	static
+../Core/Src/lcd.cpp:212:6:void LCD_DrawPixel(uint16_t, uint16_t, uint16_t)	24	static
+../Core/Src/lcd.cpp:225:13:void LCD_WriteChar(uint16_t, uint16_t, char, FontDef, uint16_t, uint16_t)	48	static
+../Core/Src/lcd.cpp:244:6:void LCD_WriteString(uint16_t, uint16_t, const char*, FontDef, uint16_t, uint16_t)	32	static
+../Core/Src/lcd.cpp:270:6:void LCD_WriteStringCentered(uint16_t, const char*, FontDef, uint16_t, uint16_t)	56	static
+../Core/Src/lcd.cpp:309:6:void LCD_FillRectangle(uint16_t, uint16_t, uint16_t, uint16_t, uint16_t)	32	static
+../Core/Src/lcd.cpp:330:6:void LCD_FillScreen(uint16_t)	24	static
+../Core/Src/lcd.cpp:334:6:void LCD_DrawImage(uint16_t, uint16_t, uint16_t, uint16_t, const uint16_t*)	24	static
+../Core/Src/lcd.cpp:345:6:void LCD_InvertColors(bool)	16	static
+../Core/Src/lcd.cpp:352:6:void LCD_Test()	16	static
+../Core/Src/lcd.cpp:365:13:void _swap(uint16_t*, uint16_t*)	24	static
+../Core/Src/lcd.cpp:374:6:void LCD_DrawFillTriangle(uint16_t, uint16_t, uint16_t, uint16_t, uint16_t, uint16_t, uint16_t)	72	static

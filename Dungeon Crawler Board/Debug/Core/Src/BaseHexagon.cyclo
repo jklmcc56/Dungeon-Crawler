@@ -1,0 +1,18 @@
+C:\ST\STM32CubeIDE_1.14.1\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.100.202309141235\tools\arm-none-eabi\include\c++\11.3.1\arm-none-eabi\thumb\v7e-m+fp\hard\bits\gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	1
+../Core/Src/BaseHexagon.cpp:4:1:Hexagon::Hexagon(int, int)	1
+../Core/Src/BaseHexagon.cpp:13:5:int Hexagon::GetHexQ()	1
+../Core/Src/BaseHexagon.cpp:17:5:int Hexagon::GetHexR()	1
+../Core/Src/BaseHexagon.cpp:21:5:int Hexagon::GetHexRow()	1
+../Core/Src/BaseHexagon.cpp:25:5:int Hexagon::GetHexColumn()	1
+../Core/Src/BaseHexagon.cpp:30:13:HexagonType Hexagon::GetType()	1
+../Core/Src/BaseHexagon.cpp:34:6:bool Hexagon::GetPassable()	1
+../Core/Src/BaseHexagon.cpp:38:6:void Hexagon::SetHexQ(int)	1
+../Core/Src/BaseHexagon.cpp:42:6:void Hexagon::SetHexR(int)	1
+../Core/Src/BaseHexagon.cpp:46:6:void Hexagon::SetHexRow(int)	1
+../Core/Src/BaseHexagon.cpp:50:6:void Hexagon::SetHexColumn(int)	1
+../Core/Src/BaseHexagon.cpp:55:6:void Hexagon::SetType(HexagonType)	1
+../Core/Src/BaseHexagon.cpp:59:6:void Hexagon::SetPassable(bool)	1
+../Core/Src/BaseHexagon.cpp:64:1:Hexagon::~Hexagon()	1
+../Core/Src/BaseHexagon.cpp:65:1:void __static_initialization_and_destruction_0(int, int)	5
+../Core/Src/BaseHexagon.cpp:65:1:cpp)	1
+../Core/Src/BaseHexagon.cpp:65:1:cpp)	1
